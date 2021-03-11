@@ -1,4 +1,4 @@
-# OPENVPN-reverse-proxy
+#OPEN-VPNPROXY
 See a  lot of people ask how to set up a reverse proxy for the openvpn connection so i found out how to do it and thought why not share it here.
 
 thanks to Brad for showing me how to do this.
